@@ -1,5 +1,5 @@
 # CloudyGo
-
+This file contain complete doc
 Frontend for displaying
 [MiniGo](https://github.com/tensorflow/minigo),
 [Leela-Zero](https://github.com/gcp/leela-zero),
